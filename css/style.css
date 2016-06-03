@@ -1,0 +1,124 @@
+body{
+  margin:0 auto;
+  font-size: 16px;
+  background-color: rgba(144, 145, 145, 0.3);
+  font-family: Courier,'ＭＳ Ｐ明朝',Arial;
+}
+h2,h3,h4{
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+  position: absolute;
+  top: 30px;
+  left: 10px;
+}
+nav div {
+  font-size: 36px;
+}
+
+/*============================
+#log
+============================*/
+header h1#log {
+}
+header h1#log img {
+}
+header nav {
+  font-weight: bold;
+}
+header nav ul {
+}
+header nav ul li {
+  /*background-color: rgb(144, 201, 141);*/
+  list-style: none;
+  font-family: 'ヒラギノ明朝 ProN W3';
+  text-decoration-color: white;
+  font-weight: lighter;
+}
+header nav ul li span {
+  color: black;
+}
+
+header nav ul li span:hover {
+  background-color: #ddd;
+}
+
+
+
+
+header nav ul li a {
+  text-decoration: none;
+}
+
+/*============================
+#wrap
+============================*/
+div#wrap {
+}
+
+/*============================
+#profile
+============================*/
+div#wrap section#profile {
+}
+div#wrap section#profile h2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+
+}
+div#wrap section#profile h3 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  /*margin-left: 40px;*/
+}
+div#wrap section#profile ul {
+  margin-top: 5px;
+  padding-top: 0px;
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+
+}
+div#wrap section#profile ul li {
+}
+div#wrap footer {
+  font-family: 'ヒラギノ明朝 Pro W3','游ゴシック体';
+
+}
+div#wrap footer address {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  font-style: normal;
+  font-family: cursive;
+
+}
+div#wrap footer address p {
+}
+div#wrap footer address p.facebook {
+}
+div#wrap footer address p.twitter {
+}
+#top-image img{
+  width:100%;
+  height: 50%;
+
+}
+/*============================
+#copyright
+============================*/
+#copyright {
+  font-size: 16px;
+  color: rgb(110, 113, 107);
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
